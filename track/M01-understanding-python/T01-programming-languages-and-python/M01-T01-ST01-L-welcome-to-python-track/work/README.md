@@ -2,26 +2,26 @@
 
 ## My Name
 
-Write your name.
+sachin suresh
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+I have learned about the logic development, how to write psuedocode and how to think logically.
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+I selected python because it is easy to learn and industry is demanding python now so i choose to learn python
 
 ## My Career Goal
 
-Write the role you want to achieve.
+i want to become a efficient software engineer.
 
 ## What I Understood Today
 
 Complete these sentences:
 
-Programming means:
+Programming means: set of instructions enabling a computer to perform a task
 
-Python is:
+Python is: beginner friendly language and used in various field
 
-In this track, I will learn:
+In this track, I will learn:  how to use git hub ,how to write code and push code to git hub

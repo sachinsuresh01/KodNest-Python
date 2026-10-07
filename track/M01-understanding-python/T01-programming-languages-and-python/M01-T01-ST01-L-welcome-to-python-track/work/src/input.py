@@ -1,0 +1,10 @@
+name="sachin"
+print(f"my name is {name} !")
+name=input("Enter your name:")
+age=input("Enter your age")
+a=int(input("a:"))
+b=int(input("b:"))
+c=(a+b)
+print(name)
+print(age)
+print(c)
